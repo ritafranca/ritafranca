@@ -56,10 +56,11 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <a href="https://open.spotify.com/user/shibesbot">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=shibesbot&count={count})
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
