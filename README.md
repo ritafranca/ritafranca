@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">My name is Rita and I'm a software engineering student, from Brazil's UFC.</p>
+<p align="center">My name is Rita and I'm a software engineering student from Brazil's Universidade Federal do Ceára/Russas-CE.</p>
 
 ###
 
